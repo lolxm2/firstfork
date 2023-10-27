@@ -1,10 +1,10 @@
 """Test jsonschema2md."""
 
-
+"""this is me """
 import jsonschema2md
 
 
-class TestParser:
+class TestP:
     test_schema = {
         "$id": "https://example.com/arrays.schema.json",
         "$schema": "http://json-schema.org/draft-07/schema#",
